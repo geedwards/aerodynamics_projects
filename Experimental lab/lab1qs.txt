@@ -1,0 +1,3 @@
+Append the repititions together 
+sort them
+use this to calculate the velocities
